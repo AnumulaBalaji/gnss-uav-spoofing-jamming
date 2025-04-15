@@ -38,10 +38,3 @@ To analyze and expose the vulnerabilities in UAV GPS navigation systems by pract
 - `/software` → SDR flowgraphs and commands
 - `/presentation` → summary decks (if any)
 
-## 🧠 Learn More
-
-📄 [Read the full paper (PDF)](./docs/conference_paper.pdf)
-
-## 📫 Contact
-**Abhishek A N** – abhi.nandi.bangalore@gmail.com  
-Project done at PES University, Bengaluru

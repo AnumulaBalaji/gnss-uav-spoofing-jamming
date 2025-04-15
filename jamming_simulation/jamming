@@ -1,0 +1,2 @@
+Jamming Simulation using GNU Radio Companion
+The flowgraph simulates the jamming of RF signals and how the signal appears to be interfered when the jamming power is increased 
